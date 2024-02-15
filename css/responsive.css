@@ -1,0 +1,401 @@
+@media (max-width: 319.98px) {
+ /* NAVBAR PART */
+ .navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 16px;
+}
+.nav-button .btn {
+    padding: 14px 28px;
+    font-size: 14px;
+}
+#banner {
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+.banner-text h1 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.banner-text p {
+    font-size: 13px;
+    line-height: 26px;
+    width: 239px;
+    padding: 10px 0 25px 0;
+}
+.banner-text .banner-button .btn {
+    padding: 18px 35px;
+    font-size: 16px;
+    margin: 0 auto 15px auto;
+}
+
+/* COunt PART */
+.counter-shape {
+z-index: -1;
+opacity: 50%;
+}
+#count {
+padding: 50px 0 10px 0;
+z-index: -2;
+}
+.counter-line {
+    border-right: none;
+}
+.counter-line h2 {
+    font-size: 45px;
+}
+.counter-line p {
+    font-size: 28px;
+    padding-top: 0px;
+    padding-bottom: 30px;
+}
+.counter h2 {
+    font-size: 45px;
+}
+.counter p {
+    font-size: 28px;
+    padding-top: 0px;
+    padding-bottom: 30px;
+}
+
+/* WCU PART */
+#wcu {
+    padding: 80px 0 70px 0;
+}
+.wcu-left {
+    padding-right: 20px;
+}
+.wcu-left:hover{
+    box-shadow: 10px 30px 60px 0 rgba(163, 170, 191, 0.5);
+    padding: 42px 20px 42px 28px;
+}
+.wcu-left p {
+    font-size: 14px;
+    margin-left: 20px;
+}
+.bullet .r2 {
+    width: 18px;
+    height: 18px;
+    margin-top: 7px;
+}
+.bullet .r1 {
+    margin-top: 7px;
+    width: 18px;
+    height: 18px;
+}
+.wcu-right{
+    padding-top: 30px;
+}
+.wcu-right h1 {
+    font-size: 40px;
+    line-height: 45px;
+}
+.wcu-right p {
+    width: 280px;
+    font-size: 16px;
+    line-height: 30px;
+    padding: 9px 0 20px 0;
+}
+.wcu-right .btn {
+    font-size: 16px;
+    padding: 15px 30px;
+}
+
+/* WWD PART */
+#wwd {
+    padding: 70px 0;
+}
+.wwd-title{
+    padding-bottom: 50px;
+}
+.wwd-title h1 {
+    font-size: 40px;
+}
+.wwd-title p {
+    width: 280px;
+    font-size: 17px;
+    line-height: 28px;
+    padding: 20px 0;
+}
+.wwd-title .btn {
+    padding: 15px 30px;
+    font-size: 16px;
+}
+.wwd-card {
+    height: auto;
+    padding: 30px 0;
+    margin-bottom: 20px;
+}
+.wwd-card:hover{
+    height: auto;
+    padding: 30px 0;
+}
+.wwd-card h1 {
+    font-size: 20px;
+    line-height: 36px;
+    padding-top: 15px;
+}
+.wwd-card p {
+    width: 200px;
+    font-size: 14px;
+    line-height: 25px;
+    padding: 13px 0 30px 0;
+}
+.wwd-card a {
+    font-size: 16px;
+}
+
+/* REAL IMPACT PART */
+#real-impact {
+    padding: 50px 0 10px 0;
+}
+.ri-tittle h1 {
+    font-size: 35px;
+    line-height: 35px;
+}
+.ri-tittle p {
+    width: 300px;
+    font-size: 15px;
+    line-height: 29px;
+    padding: 23px 0 70px 0;
+}
+.ri-details1 .ri-icon img{
+    max-width: 90%;
+    height: auto;
+}
+.ri-text h1 {
+    font-size: 24px;
+    margin-left: 50px;
+}
+.ri-text p {
+    width: 250px;
+    font-size: 14px;
+    line-height: 28px;
+    padding-top: 0px;
+    margin-left: 50px;
+}
+.ri-shape {
+    z-index: -1;
+    opacity: 50%;
+}
+.ri-img img{
+    max-width: 95%;
+    height: auto;
+}
+
+/* PLAN PART */
+#plan {
+    padding: 70px 0;
+}
+.plan-tittle h1 {
+    font-size: 40px;
+    padding-bottom: 64px;
+}
+.bg img{
+    width: 95%;
+    height: auto;
+}
+.price h5 {
+    font-size: 35px;
+}
+.basic p {
+    font-size: 16px;
+    line-height: 28px;
+}
+
+/* REVIEW PART */
+.review-details p {
+    width: 220px;
+    font-size: 14px;
+    line-height: 25px;
+    padding: 30px 0 30px 0;
+}
+.carousel-control-next, .carousel-control-prev{
+    right: 0%;
+    }
+.carousel-control-prev{
+    left: 0%;
+}
+.review-details h5 {
+    font-size: 20px;
+}
+.review-details h6 {
+    font-size: 14px;
+}
+.footer-left .Dis {
+    width: 260px;
+    padding-bottom: 100px;
+}
+.footer-left p {
+	font-size: 16px;
+	line-height: 170%;
+}
+.links p {
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+.links ul li a {
+	font-size: 16px;
+	padding-bottom: 5px;
+}
+.info a {
+	font-size: 16px;
+}
+.credit p{
+    padding-top: 80px;
+}
+.links {
+	margin-right: 30px;
+}
+}
+
+@media (max-width: 575.98px) {
+        /* NAVBAR PART */
+        .nav-button .btn {
+            padding: 14px 28px;
+            font-size: 14px;
+        }
+        #banner {
+        padding-top: 160px;
+        padding-bottom: 100px;
+        }
+        .banner-text h1 {
+            font-size: 41px;
+            line-height: 48px;
+        }
+        .banner-text p {
+            font-size: 17px;
+            line-height: 31px;
+            width: 450px;
+            padding: 20px 0;
+        }
+        .banner-text .banner-button .btn {
+            padding: 18px 35px;
+            font-size: 16px;
+        }
+    
+        /* COunt PART */
+        .counter-shape {
+        z-index: -1;
+        opacity: 50%;
+    }
+        #count {
+        padding-top: 80px;
+        padding-bottom: 40px;
+        z-index: -2;
+    }
+        .counter-line {
+            border-right: none;
+        }
+        .counter-line h2 {
+            font-size: 45px;
+        }
+        .counter-line p {
+            font-size: 28px;
+            padding-top: 0px;
+            padding-bottom: 30px;
+        }
+        .counter h2 {
+            font-size: 45px;
+        }
+        .counter p {
+            font-size: 28px;
+            padding-top: 0px;
+            padding-bottom: 30px;
+        }
+    
+        /* WCU PART */
+        .wcu-left p {
+            font-size: 16px;
+        }
+        .bullet .r2 {
+            width: 23px;
+            height: 23px;
+        }
+        .bullet .r1 {
+            width: 23px;
+            height: 23px;
+        }
+        .wcu-right{
+            padding-top: 50px;
+        }
+    
+        /* WWD PART */
+        #wwd {
+            padding: 70px 0;
+        }
+        .wwd-title{
+            padding-bottom: 50px;
+        }
+        .wwd-title h1 {
+            font-size: 35px;
+        }
+        .wwd-title p {
+            width: 205px;
+            font-family: 'open sans', sans-serif;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 25px;
+            color: #6C7D93;
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+        .wwd-title .btn {
+            padding: 15px 30px;
+            font-size: 18px;
+        }
+        .wwd-card h1 {
+            font-size: 20px;
+            line-height: 36px;
+            padding-top: 15px;
+        }
+        .wwd-card p {
+            width: 200px;
+            font-size: 14px;
+            line-height: 25px;
+            padding: 13px 0 30px 0;
+        }
+        .wwd-card a {
+            font-size: 16px;
+        }
+    
+        /* REAL IMPACT PART */
+        #real-impact {
+            padding: 70px 0 10px 0;
+        }
+        .ri-tittle h1 {
+            font-size: 35px;
+        }
+        .ri-tittle p {
+            width: 350px;
+            font-size: 15px;
+            line-height: 29px;
+            padding: 23px 0 70px 0;
+        }
+        .ri-details1 .ri-icon img{
+            max-width: 90%;
+            height: auto;
+        }
+        .ri-text h1 {
+            font-size: 26px;
+        }
+        .ri-text p {
+            width: 300px;
+            font-size: 16px;
+            line-height: 29px;
+            padding-top: 0px;
+        }
+        .ri-shape {
+            z-index: -1;
+            opacity: 50%;
+        }
+        .ri-img img{
+            max-width: 95%;
+            height: auto;
+        }
+    
+        /* PLAN PART */
+        #plan {
+            padding: 70px 0;
+        }
+
+}
+
